@@ -16,7 +16,7 @@ document.body.innerHTML = `
     </form>
 `;
 
-const { validarEmail, validarNombre, validarDias } = require('../js/validaciones');
+const { validarEmail, validarNombre, validarDias } = require('../public/js/validaciones');
 
 describe('Pruebas de Integración del Formulario Cliente', () => {
     

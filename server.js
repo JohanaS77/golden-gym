@@ -3,7 +3,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
-app.use(express.static(__dirname));
+app.use(express.static(require('path').join(__dirname, 'public')));
 
 ['contacto', 'registro', 'festivos'].forEach(nombre =>
     app.use(`/api/${nombre}`, require(`./routes/${nombre}Routes`))

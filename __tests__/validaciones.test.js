@@ -1,4 +1,4 @@
-const { validarEmail, validarNombre, validarDias } = require('../js/validaciones');
+const { validarEmail, validarNombre, validarDias } = require('../public/js/validaciones');
 
 describe('Pruebas de Validación de Email', () => {
     
