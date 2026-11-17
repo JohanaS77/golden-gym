@@ -29,7 +29,7 @@
 - [Pruebas](#-pruebas)
 - [Docker](#-docker)
 - [Despliegue en Render](#-despliegue-en-render)
-- [Desarrolladores](#-integrantes)
+- [Desarrolladores](#-desarrolladores)
 - [Licencia](#-licencia)
 
 ---
@@ -316,7 +316,6 @@ La aplicación está desplegada en Render como un servicio web con Docker, conec
 ---
 
 ## 👥 Desarrolladores
-
 <div align="center">
 <table>
   <tr>
