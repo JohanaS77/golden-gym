@@ -16,3 +16,4 @@ function crearRutaFormulario({ obligatorios, errorMsg, logMsg, mensajeExito }) {
 }
 
 module.exports = crearRutaFormulario;
+
