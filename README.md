@@ -72,7 +72,7 @@ Lo que se incorporó sobre la versión original:
 
 ### ✅ Confirmación de compra (respuesta en XML)
 <div align="center">
-  <img src="capturas/confirmacion.png" alt="Confirmación de compra" width="800"/>
+  <img src="capturas/confirmacion.png" alt="Confirmación de compra" width="400"/>
 </div>
 
 ### 📬 Formulario de contacto
